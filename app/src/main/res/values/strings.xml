@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DummyInterfaceApp</string>
+    <string name="activity_with_all_callbacks_included">activity with all callbacks included</string>
+</resources>
